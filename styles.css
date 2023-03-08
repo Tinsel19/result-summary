@@ -148,7 +148,7 @@ body{
 @media (min-width: 800px) {
 
     .main {
-        padding: 10% 10%;
+        padding: auto 10%;
         background-color: white;
         border-radius: 50px;
         
